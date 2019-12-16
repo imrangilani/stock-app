@@ -1,5 +1,5 @@
 <template>
-    <div class="col-sm-6 col-md-4">
+    <div class="col-sm-6 col-md-4">567
         <div class="panel panel-info">
             <div class="panel-heading">
                 <h3 class="panel-title">
